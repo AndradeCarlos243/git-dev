@@ -1,1 +1,3 @@
-# git-dev
+# GIT DEV
+GIT DEV es el contenedor de todos los archivos creados para los cursos que requieran actividades sin necesidad de un repositorio propio
+<div class="tenor-gif-embed" data-postid="5332780545471097334" data-share-method="host" data-aspect-ratio="1.2" data-width="100%"><a href="https://tenor.com/view/grant-yapping-lucky-star-speech-bubble-gif-5332780545471097334">Grant Yapping Sticker</a>from <a href="https://tenor.com/search/grant-stickers">Grant Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
